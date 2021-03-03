@@ -5,4 +5,5 @@ New modification
 Check the differences
 
 merging from master
+Check stash status
 
