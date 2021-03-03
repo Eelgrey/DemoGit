@@ -4,5 +4,5 @@ New modification
 
 Check the differences
 
-Merging issue in newMerge in master
+merging from master
 
